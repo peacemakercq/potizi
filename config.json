@@ -19,13 +19,7 @@
             "listen": "0.0.0.0",
             "port": 9088,
             "protocol": "vmess",
-            "settings": {
-                "clients": [
-                    {
-                        "id": "935dee12-d061-4075-9dd9-96be96b5d599"
-                    }
-                ]
-            },
+            "settings": {},
             "streamSettings": {
                 "network": "tcp",
                 "tcpSettings": {
